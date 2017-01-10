@@ -1,0 +1,2985 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#"
+     xml:base="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl">
+        <rdfs:comment>This is a Hobby Ontology.</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acrobatics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acrobatics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acroyoga -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acroyoga">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Action_Figures -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Action_Figures">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#African_Djembe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#African_Djembe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Aikido -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Aikido">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Combat -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Combat">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Flight -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Flight">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Amateur_Geology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Amateur_Geology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#American_Football -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#American_Football">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Animation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Animation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Antiques -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Antiques">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arcade_Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arcade_Games">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Archery -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Archery">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Architecture -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Architecture">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astral_Projection -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astral_Projection">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astrology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astrology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astronomy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astronomy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Audiophile -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Audiophile">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autograph_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autograph_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Automobile_Restoration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Automobile_Restoration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autoracing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autoracing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Backpacking_Travel -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Backpacking_Travel">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ball_and_Jacks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ball_and_Jacks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ballet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ballet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Balloon_Art -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Balloon_Art">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Banjo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Banjo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bartending -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bartending">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Base_Jumping -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Base_Jumping">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Baseball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Baseball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Basketball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Basketball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bass_Guitar -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bass_Guitar">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beat_Box -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beat_Box">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Brewing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Brewing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Billiards_and_Pool -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Billiards_and_Pool">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Birdwatching -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Birdwatching">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Blues -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Blues">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Games">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bodybuilding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bodybuilding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bowling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bowling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Boxing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Boxing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Break_Dancing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Break_Dancing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bridge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bridge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Calligraphy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Calligraphy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Camping -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Camping">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Candle_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Candle_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Capoeira -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Capoeira">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Car_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Car_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Games">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Tricks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Tricks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cardio_Workout -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cardio_Workout">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cats -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cats">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ceramics_and_Pottery -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ceramics_and_Pottery">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cheese_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cheese_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Chess -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Chess">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cigar_Smoking_and_Rolling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cigar_Smoking_and_Rolling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Classical -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Classical">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cliff_Diving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cliff_Diving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coffee_Roasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coffee_Roasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coin_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coin_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Comic_Books -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Comic_Books">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Competitive_Eating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Competitive_Eating">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Compose_Music -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Compose_Music">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Computers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Computers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_and_Electronic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Concert_Posters -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Concert_Posters">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Conga_and_Bongo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Conga_and_Bongo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cooking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cooking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Crochet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Crochet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Croquet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Croquet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cycling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cycling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#DJ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#DJ">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Performing_Arts"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Diving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Diving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dogs -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dogs">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Doll_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Doll_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dominoes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dominoes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Drum_Set -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Drum_Set">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_and_Electronic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fashion_Design -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fashion_Design">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fencing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fencing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ferrets -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ferrets">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Film_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Film_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fine_Art_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fine_Art_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishkeeping -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishkeeping">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Floristry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Floristry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fly_Fishing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fly_Fishing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foosball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foosball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Freelance_Writing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Freelance_Writing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gardening -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gardening">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gender -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gender"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Genealogy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Genealogy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Martial_Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Martial_Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Model_Kits -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Model_Kits">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Geocaching -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Geocaching">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gilli_Danda -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gilli_Danda">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Go_Karts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Go_Karts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Golf -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Golf">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Graffiti -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Graffiti">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Grilling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Grilling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Guitar -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Guitar">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gun_and_Pistols -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gun_and_Pistols">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gymnastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gymnastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ham_Radio -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ham_Radio">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Handball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Handball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hang_Gliding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hang_Gliding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Harmonica -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Harmonica">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hiking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hiking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Historical_Reenactments -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Historical_Reenactments">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hockey -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hockey">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hookah_Smoking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hookah_Smoking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Horseback_Riding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Horseback_Riding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hot_Wheel_and_Matchbox_Cars -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hot_Wheel_and_Matchbox_Cars">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hunting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hunting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Fishing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Fishing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Hockey -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Hockey">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Skating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Skating">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Inline_Skating -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Inline_Skating">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Insect_and_Spiders -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Insect_and_Spiders">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual_and_Mental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Investing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Investing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jazz -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jazz">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jewelry_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jewelry_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jigsaw_Puzzles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jigsaw_Puzzles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jiu_Jitsu -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jiu_Jitsu">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Judo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Judo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Juggling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Juggling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kabaddi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kabaddi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Karate -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Karate">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kayak_and_Canoe -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kayak_and_Canoe">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Keychain_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Keychain_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kho_Kho -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kho_Kho">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kite_Flying -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kite_Flying">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kite_Flying_and_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kite_Flying_and_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kitesurfing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kitesurfing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Knitting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Knitting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kung_Fu -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kung_Fu">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lacrosse -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lacrosse">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Languages -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Languages">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Letterboxing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Letterboxing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Line_Dancing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Line_Dancing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Liquor_Distillation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Liquor_Distillation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Location -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Location"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lomography -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lomography">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lucid_Dreaming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lucid_Dreaming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#MMA_-_Mixed_Martial_Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#MMA_-_Mixed_Martial_Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Magic_Tricks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Magic_Tricks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mahjong -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mahjong">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Manga -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Manga">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mashups -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mashups">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Massage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Massage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Meditation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Meditation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Airplanes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Airplanes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Cars -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Cars">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Diecast_Cars -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Diecast_Cars">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Railroading -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Railroading">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Rockets -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Rockets">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Ship_and_Boat_Kits -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Ship_and_Boat_Kits">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_and_Electronic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_and_Electronic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Modern_Dance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Modern_Dance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motocross -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motocross">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_-_Touring -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_-_Touring">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_Stunts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_Stunts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountain_Biking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountain_Biking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountaineering -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountaineering">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Movie_Memorabilia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Movie_Memorabilia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_Memorabilia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_Memorabilia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Musicals -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Musicals">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Neuro_Linguistic_Programming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Neuro_Linguistic_Programming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Novel_Writing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Novel_Writing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Off_Road_Driving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Off_Road_Driving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Opera -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Opera">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Origami -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Origami">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paintball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paintball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Painting_and_Drawing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Painting_and_Drawing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Palm_Reading -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Palm_Reading">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paper_Airplanes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paper_Airplanes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Papier-Mache -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Papier-Mache">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paragliding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paragliding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parkour_-_Freerunning -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parkour_-_Freerunning">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parrots -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parrots">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Performing_Arts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Performing_Arts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Person"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Photography -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Photography">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Piano_and_Keyboard -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Piano_and_Keyboard">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pilates -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pilates">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pinball_Machines -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pinball_Machines">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pipe_Smoking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pipe_Smoking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Play_Writing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Play_Writing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poetry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poetry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poker -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poker">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pole_Dancing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pole_Dancing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Polo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Polo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Psychic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Psychic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Puppetry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Puppetry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Quilting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Quilting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Boats -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Boats">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Cars -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Cars">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Helicopters -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Helicopters">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Planes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Planes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RV_Travelling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RV_Travelling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rabbits -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rabbits">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rapping -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rapping">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reading -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reading">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reiki -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reiki">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reptiles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reptiles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#River_Rafting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#River_Rafting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Robotics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Robotics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rock_Climbing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rock_Climbing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rodents -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rodents">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rubiks_Cube -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rubiks_Cube">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rugby -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rugby">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Running -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Running">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sailing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sailing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sake_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sake_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Salsa -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Salsa">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sandboarding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sandboarding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Miniature_Building -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Miniature_Building">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_and_Electronic"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scrapbooking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scrapbooking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Screenwriting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Screenwriting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scuba_Diving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scuba_Diving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sculpting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sculpting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sewing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sewing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arts_and_Crafts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shark_Diving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shark_Diving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shooting_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shooting_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sign_Language -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sign_Language">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Singing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Singing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skateboarding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skateboarding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skydiving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skydiving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snakes -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snakes">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snow_Skiing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snow_Skiing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowboarding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowboarding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowmobiling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowmobiling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Songwriting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Songwriting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Speed_Reading -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Speed_Reading">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spirits_and_Liquor_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spirits_and_Liquor_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual_and_Mental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual_and_Mental -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual_and_Mental">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spoon_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spoon_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Collectibles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Collectibles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Trading_Cards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Trading_Cards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hobby"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Squash -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Squash">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stamp_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stamp_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stand_Up_Comedy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stand_Up_Comedy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Other_Performing_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Start_A_Band -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Start_A_Band">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Surfing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Surfing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sushi_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sushi_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swimming -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swimming">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Table_Tennis_-_Ping_Pong -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Table_Tennis_-_Ping_Pong">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Taekwondo -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Taekwondo">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tai_Chi -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tai_Chi">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tango -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tango">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tarot -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tarot">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tea_Drinking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tea_Drinking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_and_Outdoors"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tequila_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tequila_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Throwball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Throwball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Triathlon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Triathlon">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Turtles -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Turtles">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pets"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Video_Games -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Video_Games">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Games"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Vinyl_Records -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Vinyl_Records">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Volleyball -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Volleyball">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Team_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wakeboarding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wakeboarding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Waltz -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Waltz">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dancing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Watch_Collecting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Watch_Collecting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Collecting"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Water_Ski -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Water_Ski">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Web_Site_Design -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Web_Site_Design">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Computers"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Weight_Training -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Weight_Training">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Whiskey_-_Scotch_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Whiskey_-_Scotch_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Windsurfing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Windsurfing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Making -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Making">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Tasting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Tasting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foods_and_Drinks"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wingsuit_Flying -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wingsuit_Flying">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wrestling -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wrestling">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual_and_Mental"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton_Court_3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#BasketBall_Court_3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket_Ground_3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football_Field_3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gym3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis_Court_3"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_1 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_1"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_2 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_2"/>
+    
+
+
+    <!-- http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_3 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga_Place_3"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acrobatics"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acroyoga"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Archery"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Badminton"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bodybuilding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bowling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Boxing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cardio_Workout"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cliff_Diving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Croquet"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cycling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Diving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fencing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Golf"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gymnastics"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Horseback_Riding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Skating"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Inline_Skating"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pilates"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Running"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shooting_Sports"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Squash"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swimming"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tai_Chi"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tennis"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Triathlon"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Weight_Training"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Yoga"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Acting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Historical_Reenactments"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Juggling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Magic_Tricks"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Puppetry"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stand_Up_Comedy"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Action_Figures"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Amateur_Geology"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Antiques"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autograph_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Car_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coin_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Comic_Books"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Concert_Posters"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Doll_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fine_Art_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gun_and_Pistols"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hot_Wheel_and_Matchbox_Cars"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Keychain_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Manga"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Diecast_Cars"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Movie_Memorabilia"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_Memorabilia"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spoon_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Collectibles"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sports_Trading_Cards"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Stamp_Collecting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Vinyl_Records"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Watch_Collecting"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Aikido"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Capoeira"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Martial_Arts"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jiu_Jitsu"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Judo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Karate"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kung_Fu"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#MMA_-_Mixed_Martial_Arts"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Taekwondo"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Motor_and_Board_Sports"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Individual_Sports"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Martial_Arts"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Outdoor_Recreation"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Air_Sports"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Sports"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motor_Sports"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Combat"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Airplane_Flight"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Base_Jumping"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hang_Gliding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paragliding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skydiving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wingsuit_Flying"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#American_Football"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Basketball"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cricket"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Football"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Handball"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hockey"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Hockey"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kabaddi"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lacrosse"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Polo"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rugby"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Throwball"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Volleyball"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Animation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Architecture"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Balloon_Art"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Calligraphy"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Candle_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ceramics_and_Pottery"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Crochet"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fashion_Design"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Film_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Floristry"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Gardening"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Graffiti"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jewelry_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Knitting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lomography"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Origami"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Painting_and_Drawing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paper_Airplanes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Papier-Mache"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Photography"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Quilting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scrapbooking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sculpting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sewing"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Arcade_Games"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ball_and_Jacks"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Billiards_and_Pool"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Board_Games"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bridge"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Games"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Card_Tricks"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Chess"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dominoes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Foosball"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Geocaching"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jigsaw_Puzzles"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kite_Flying_and_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Letterboxing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mahjong"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pinball_Machines"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poker"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rubiks_Cube"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Table_Tennis_-_Ping_Pong"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Video_Games"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astral_Projection"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astrology"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Lucid_Dreaming"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Massage"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Meditation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Palm_Reading"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Psychic"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reiki"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tarot"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Astronomy"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Genealogy"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Investing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Languages"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Neuro_Linguistic_Programming"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reading"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sign_Language"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Speed_Reading"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Audiophile"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Blues"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Classical"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Jazz"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Musicals"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Opera"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Automobile_Restoration"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ham_Radio"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Boats"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Cars"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Helicopters"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RC_Planes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Robotics"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Autoracing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Go_Karts"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motocross"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_-_Touring"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Motorcycle_Stunts"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Off_Road_Driving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowmobiling"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Backpacking_Travel"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Birdwatching"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Camping"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fly_Fishing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hiking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hunting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ice_Fishing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kayak_and_Canoe"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountain_Biking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mountaineering"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Paintball"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parkour_-_Freerunning"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#RV_Travelling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#River_Rafting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rock_Climbing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sailing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scuba_Diving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Shark_Diving"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snow_Skiing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Water_Ski"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ballet"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Break_Dancing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Line_Dancing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Modern_Dance"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pole_Dancing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Salsa"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Swing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tango"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Waltz"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Bartending"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Brewing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Beer_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cheese_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cigar_Smoking_and_Rolling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Coffee_Roasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Competitive_Eating"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cooking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Grilling"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Hookah_Smoking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Liquor_Distillation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Pipe_Smoking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sake_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spirits_and_Liquor_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sushi_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tea_Drinking"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Tequila_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Whiskey_-_Scotch_Tasting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Making"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wine_Tasting"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Cats"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Dogs"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Ferrets"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Fishkeeping"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Insect_and_Spiders"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Parrots"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rabbits"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Reptiles"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rodents"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snakes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Turtles"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Compose_Music"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#DJ"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Mashups"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Rapping"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Singing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Start_A_Band"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Computers"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Electronic_Hobbies"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Models"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Freelance_Writing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Novel_Writing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Play_Writing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Poetry"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Screenwriting"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Songwriting"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#General_Model_Kits"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Airplanes"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Cars"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Railroading"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Rockets"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Model_Ship_and_Boat_Kits"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Scale_Miniature_Building"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Intellectual"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Spiritual"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Writing"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Kitesurfing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Sandboarding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Skateboarding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Snowboarding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Surfing"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Wakeboarding"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Windsurfing"/>
+        </owl:members>
+    </rdf:Description>
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Appreciation"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music-Instruments"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/rahul.nori/ontologies/2016/9/hobby.owl#Music_-_General"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
